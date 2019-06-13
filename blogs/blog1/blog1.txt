@@ -1,14 +1,21 @@
-Why I chose data science.
+Even before I had ever uttered the term "data scientist," a career
+involving "science" and "data" struck me as a natural choice based on
+my interests and proclivities.  Indeed, for all of my nearly 20 year
+career, and long before the term reached the popular lexicon, I have
+done data science.  However, up to the present, my technical skills
+have found very specialized applications in narrow academic
+disciplines.  I now seek to broaden my skills, and the range of
+problems I can tackle, so I can work for employers beyond academia
+solving challenging problems.
 
-Even before I heard the term "data science," a career involving
-"science" and "data" struck me as a natural choice.  Since 2003, when
-I earned a Ph.D. in Applied Mathematics from Cornell University, I
-have been employed in data intensive scientific fields.  Soon after
-graduation from Cornell, I started working as a researcher at the
-University of Maryland, studying human balance control.  I later moved
-back and forth between Johns Hopkins University and Yale University
-researching motor control and neuroscience.  Finally, in 2013, I
-started teaching mathematics and statistics at American University.
+Since 2003, when I earned a Ph.D. in Applied Mathematics from Cornell
+University, I have been employed in data-intensive scientific fields.
+Soon after graduation from Cornell, I started working as a researcher
+at the University of Maryland, studying human balance control.  I
+later moved back and forth between Johns Hopkins University and Yale
+University researching motor control and neuroscience.  Finally, in
+2013, I started teaching mathematics and statistics at American
+University.
 
 Despite giving me an introduction to data, my early training prepared
 me to study models, not data.  A model is a mathematical description
@@ -18,34 +25,36 @@ of such modeling assumptions and I turned this training into a
 successful academic career.
 
 Although, my Ph.D. dissertation contained visualizations and analyses
-of data from a human locomotion lab, the analyses remained pretty
-simple from the perspective of data science.  Soon after I left
+of real-world data from a human locomotion lab, the analyses of these
+data remained much simpler, from the perspective of data science, than
+the analyses of the accompanying locomotion model.  Soon after I left
 Cornell, I identified a desire to advance my career by getting my
-hands dirty with real-world data and sophisticated analyses---while
-still staying true to my training in modeling.  So I started studying
-statistical methods for fitting models to data.  These methods allow a
-principled construction of models using data from the physical system,
-rather than from guesses and first principles.
+hands dirty with more sophisticated analyses of such real world
+data---while still staying true to my training in modeling.  So I
+started studying statistical methods for fitting models to data.
+These methods allow a principled construction of models using data
+from the physical system, rather using just guesses when first
+principles do not apply.
 
 To try to understand the statistical methods better, my first
 model-fitting projects involved simulated data---in other words, data
-from known and well understood models of physical systems, not the
-physical systems themselves.  One might say that I could not escape
-from my training: I still studied models, keeping my hands clean from
-real-world data.  Nevertheless, my results confirmed the value of this
-approach.
+from known and well understood models of physical systems---not data
+from the physical systems themselves.  One might say that I could not
+escape from my training: I still studied models, keeping my hands
+clean from real-world data.  Nevertheless, my results confirmed the
+value of this approach.
 
 I and others at the University of Maryland wanted to develop a
 diagnostic tool for understanding what part(s) of the postural control
-system failed for each subject when they experienced repeated falls.
-We expected that such a tool would help treat fall-prone individuals,
-common for different reasons among the elderly.  A patient with
-sensory deficits should be treated differently than a patient with
-motor deficits, and both should be treated differently from a patient
-with different central deficits.  We planned a simple perturbation
-approach, with a model-fitting analysis of data from each patient's
-postural sway, to understand precisely what part of the system failed
-and why.
+system failed for each subject when they suffered from repeated falls.
+We expected that such a tool would help treat fall-prone
+patients---common, for different reasons, among elderly populations.
+A patient with sensory deficits should be treated differently than a
+patient with motor deficits, and both should be treated differently
+from a patient with central deficits---of which many exist.  We
+planned a simple perturbation approach, with model-fitting analyses of
+data from each patient's postural sway, to understand precisely what
+part of the system failed and why.
 
 To our surprise, my modeling approach saved the lab a lot of time and
 money by showing that under very general conditions, a so-called
@@ -65,57 +74,60 @@ Sometime later, in 2013, I began teaching mathematics and statistics
 at American University.  While at AU, my department started a data
 science degree program and I participated in its formation.  In the
 process, I learned a lot about the field.  Indeed, I first became
-aware of the term "data science" at AU.  With my colleagues, I had
-discussions about what employers would want from AU's graduates.  I
-explored Kaggle, and started reading job postings. The whole
-experience left me intrigued and drawn to this exciting profession.  I
-became more and more aware of the revolution in data storage and
-amazed by the enormous volume of data available to the public at
-little to no cost.  I purchased a library of data science books at a
-price substantially higher than the public data, and started taking on
-projects to develop my skills.
+aware of the term "data science."  With my colleagues, I discussed
+about what employers would want from our graduates.  I explored
+Kaggle, and started reading job postings. The whole experience left me
+intrigued and drawn to this exciting profession.  I became aware of
+the revolutionary consequences of the drop in the price of archiving
+data and amazed by the enormous volume of data cheaply or freely
+available to the public.  I purchased a library of data science books,
+and started taking on projects to develop my skills.
 
-I sought out a colleague Misha Ahrens doing big data research in
-neuroscience.  With data he gave me, I performed an intrinsic
-dimension calculation for a calcium imaging of the neural activity
-in the whole brain of the larval zebrafish performing a sensorimotor
-task.  At AU, I taught an R-based Introduction to Statistical
-Computation and Modeling class.  As a result, I took on new research
-interests---the topics that showed particular popularity among my
-students' class projects---specifically baseball and twitter.  I
-published one baseball paper on my own and I am preparing another
-baseball manuscript (with co-author undergraduate Jake Berberian).
-Additionally, I have planned a collaboration with a colleague (AU
-Professorial Lecturer Jacob Ward) analyzing tweets from twitter.
+I sought out a colleague, Misha Ahrens, who does big data research in
+neuroscience.  With data he gave me, I performed a surprising
+calculation of the intrinsic dimension from calcium imaging of the
+neural activity in the whole brain of a larval zebrafish performing a
+virtual sensorimotor stabilization task.  At AU, I taught an R-based
+Introduction to Statistical Computation and Modeling class.  As a
+result, I took on new research interests---the topics that showed
+particular popularity among my students' class projects---specifically
+baseball and Twitter.  I published one baseball paper on my own and I
+am currently preparing another baseball manuscript (with AU
+undergraduate Jake Berberian).  Additionally, I have planned a
+collaboration with a colleague (AU Professorial Lecturer Jacob Ward)
+analyzing tweets from Twitter.
 
-But another long-term project is closest to my heart---something of
-greater significance that will matter to the world.  I set an
-intention to discover and communicate insights from publicly
-available data that will foster hope, courage, love, compassion,
-forgiveness, and positive engagement in human society.  This ambition
-has given me new meaning and purpose to my life, but for lasting
-success I need more training.
+Since setting an intention to develop broader data science skills, I
+have brainstormed many ideas for projects.  These ideas have made me
+realize just how much data science skills open up opportunities.  One
+class of projects has particular appeal to me and strongly motivates
+me to excellence.  I would like to discover and communicate insights
+from publicly available data that foster hope, courage, love,
+compassion, forgiveness, and positive engagement in human society.  I
+am not specifically looking for this opportunity in a job, because the
+constraint of needing to find funding for such a project might be
+limiting to its goals---and I am perfectly happy to do data science
+projects outside of my formal employment, even if I envision it for
+"someday" in the future.  That said, these personal ambitions may
+guide the choices in my career.  For example, because I believe that
+many of the insights most helpful to human civilization will come from
+textual data, I seek training and work opportunities that will develop
+my skills in natural language processing, data wrangling, and machine
+learning relevant to deriving insights from data.
 
-In January 2019, when I heard about a free fellowship for a data
-science boot camp at the Flatiron School in DC, I realized that the
-time had come to make my move to a more traditional data science
-career.  After the fellowship, I want to support myself and my family
-with a data science job that will allow me to fully engage creatively
-in challenging problems, and provide a safe, fulfilling, supportive
-environment for success, stimulate my personal growth, and give me the
-opportunity to learn and progress in my career.  I still want to
-discover and communicate insights that will foster hope, courage,
-love, compassion, forgiveness, and positive engagement in human
-society, but I am not specifically looking for this opportunity in a
-job.  Instead, I will continue to do these and other projects,
-independently, on my free time.  But I will look to my job to help me
-develop the skills needed to engage with these pursuits on my own.
-Indeed, my personal ambitions may guide my career.  For example,
-because I believe that many of the insights most helpful to human
-civilization will come from textual data, I seek training and work
-opportunities that will develop my skills in natural language
-processing, data wrangling, and machine learning relevant to deriving
-insights from data.  I don't know what I will write about data science
-a year from now but I am very excited about the journey that
-continues.
+In January 2019, when I heard about a fellowship for a data science
+boot camp at The Flatiron School in DC, I realized that the time had
+come to make my move to a more traditional data science career.  After
+the fellowship, I want a data science job that will allow me to fully
+engage creatively in challenging problems, and provide a fulfilling
+and supportive environment for success, stimulate my personal growth,
+and give me the opportunity to learn and progress in my career.  I am
+in the process of figuring out what type of workplace will best meet
+these objectives, but one answer that currently seems attractive to me
+is working for a company does data science for a wide range of
+clients.
+
+I don't know what I will write about data science a year from now, or
+what projects I will pursue, but I am very excited about the journey
+that continues.
 
