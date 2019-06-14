@@ -1,50 +1,53 @@
 Even before I had ever uttered the term "data scientist," a career
 involving "science" and "data" struck me as a natural choice based on
-interests and proclivities that go back deep to childhood.  Indeed,
-for all of my sixteen-year post-graduate career, and long before the
-term reached the popular lexicon, I have done data science.  Until
+interests and proclivities that go back to my childhood.  Indeed, for
+all of my sixteen-year post-graduate career, and long before the term
+reached the popular lexicon, I have done data science.  Until
 recently, however, my data skills have only found specialized
 applications in narrow academic disciplines.  I now choose to broaden
 my techniques, and the range of problems I can tackle, so I can work
-for employers solving challenging problems beyond academia.
+for employers beyond academia, solving challenging problems, and
+deriving penetrating insights from data.
 
-My path to science and coding began at an early age.  When I was about
-10 years old, my father introduced me to the television series
-"Cosmos," and I remember feeling completely mesmerized by the show.
-Science, as articulated by Carl Sagan, aroused in me a deep sense of
-wonder and awe at the universe.  Even as a young child I managed to
-grasp some of the ideas that Sagan so skillfully conveyed, such as the
-vastness of the universe in time and space with respect to human
-scales, the fragility of our human society, and the urgency demanded
-by our many pressing social problems.  When I was 12, I received an
-ATARI 800 computer for Christmas, and I quickly learned to code.  By
-the end of high school, I had programmed it to follow a recipe to
-draw fractals that I found in a "Scientific American" column.  In
-college, I became an Applied Mathematics major after a summer research
-experience doing something similar to what I had done with the ATARI.
-In the subsequent summer, I made a mathematical discovery from drawing
-a different fractal, in similar way.  With my mentors at the
-University of Colorado, I published the result, and later learned that
-the field considered it important.  The accomplishment earned me
-admission to Cornell University for graduate school with a full
-fellowship from the National Science Foundation.
+My path to science began at an early age.  When I was about 10 years
+old, my loving father introduced me to the television series "Cosmos,"
+and I remember feeling completely mesmerized by the show.  Science, as
+articulated by Carl Sagan, aroused in me a deep sense of awe for the
+universe and our collective experience as human beings.  Even as a
+young child, I grasped many of the concepts that Sagan so skillfully
+conveyed.  Sagan awakened me to the fragility of our human society,
+and the urgency demanded by our many pressing social problems.
+
+Later, when I was 12, I received an ATARI 800 computer for Christmas,
+and I quickly taught myself to code.  By the end of high school, I had
+programmed my rudimentary computer to follow a recipe to draw fractals
+that I found in a "Scientific American" column.  In college, I became
+an Applied Mathematics major after a summer research experience doing
+something similar to what I had done with the ATARI.  In the
+subsequent summer, I made a mathematical discovery from drawing a
+different fractal, in similar way.  With my mentors at the University
+of Colorado, I published the result, and later learned that the field
+considered it important.  The accomplishment earned me admission to
+Cornell University for graduate school with a full fellowship from the
+National Science Foundation.
 
 Since 2003, when I earned my Ph.D., I have been employed in
 data-intensive scientific fields.  Soon after graduation from Cornell,
 I started working as a researcher at the University of Maryland,
 studying human balance control.  I later moved back and forth between
-Johns Hopkins University and Yale University researching motor control
-and neuroscience.  Finally, in 2013, I started teaching mathematics
-and statistics at American University.
+Johns Hopkins University and Yale University, researching motor
+control and neuroscience.  Ten years into my academic career, I
+started teaching mathematics and statistics at American University,
+while still publishing and doing research in my spare time.
 
 Despite giving me an introduction to data, my early training prepared
 me to study models, not data.  A model is a mathematical description
 of what to expect from data.  Models codify assumptions about physical
-systems.  Cornell trained me to study and understand the implications
-of such modeling assumptions and I turned this training into a
-successful academic career.
+systems.  Cornell University trained me to study and understand the
+implications of such modeling assumptions---I turned this training
+into a successful academic career.
 
-Although, my Ph.D. dissertation contained visualizations and analyses
+Although my Ph.D. dissertation contained visualizations and analyses
 of real-world data from a human locomotion lab, the analyses of these
 data remained much simpler, from the perspective of data science, than
 the analyses of the accompanying locomotion model.  Soon after I left
@@ -53,7 +56,7 @@ hands dirty with more sophisticated analyses of such real world
 data---while still staying true to my training in modeling.  So I
 started studying statistical methods for fitting models to data.
 These methods allow a principled construction of models using data
-from the physical system, rather using just guesses when first
+from the physical system, rather than using just guesses when first
 principles do not apply.
 
 To try to understand the statistical methods better, my first
@@ -76,11 +79,11 @@ many exist.  We planned a simple perturbation approach, with
 model-fitting analyses of data from each patient's postural sway, to
 understand precisely what part of the system failed and why.
 
-To our surprise, my modeling approach saved the lab a lot of time and
-money by showing that under very general conditions, a so-called
-pole-zero cancellation would thwart our diagnostic ambitions, even in
-the easiest to examine patient: a mathematical model patient.  With
-the postural control model, I analyzed and understood the mathematical
+To our surprise, my approach saved the lab a lot of time and money by
+showing that under very general conditions, a so-called pole-zero
+cancellation would thwart our diagnostic ambitions, even in the
+easiest to examine patient: a mathematical model patient.  With the
+postural control model, I analyzed and understood the mathematical
 conditions that doomed our proposed diagnostic tool, and showed that
 we would need techniques more invasive than ethically possible to
 rectify the situation.  I published this result in 2009, still with
@@ -93,23 +96,25 @@ ways of understanding models of animal motor control.
 Sometime later, in 2013, I began teaching mathematics and statistics
 at American University.  While at AU, my department started a data
 science degree program and I participated in its formation.  In the
-process, I learned a lot about the field.  Indeed, I first became
-aware of the term "data science."  With my colleagues, I considered
-and discussed what employers would want from our graduates.  I
-explored Kaggle, and started reading job postings. The experience left
-me intrigued and drawn to this exciting profession.  I became aware of
-the revolutionary consequences of the drop in the price of archiving
-data and amazed by the enormous volume of data cheaply or freely
-available to the public.  I purchased a library of data science books,
-then started taking on projects to develop my skills.
+process, I learned a lot about the field.  With my colleagues, I
+considered and discussed what employers would want from our graduates.
+I explored Kaggle, and started reading job postings. The experience
+left me intrigued and drawn to this exciting profession.  I became
+aware of the revolutionary consequences of the drop in the price of
+archiving data and amazed by the enormous volume of data cheaply or
+freely available to the public.  I purchased, and started reading, a
+library of data science books.  I enrolled in Coursera courses, and I
+downloaded data science and machine learning libraries from the
+internet.  Most significantly, started taking on projects to develop
+my skills.
 
-I sought out a colleague, Misha Ahrens, who leads a neuroscience lab
-doing big data research at the Howard Hughes Janelia Research Campus.
-With data he derived from calcium image video experiments, I performed
-a surprising calculation of the intrinsic dimension (only 15 to 20) of
-the neural activity in the whole brain (over 90,000 individual
-neurons) of a larval zebrafish performing a virtual sensorimotor
-stabilization task.
+To this end, I sought out a colleague, Misha Ahrens, who leads a
+neuroscience lab doing big data research at the Howard Hughes Janelia
+Research Campus.  With data he derived from calcium image video
+experiments, I performed a surprising calculation of the intrinsic
+dimension (only 15 to 20) of the neural activity in the whole brain
+(over 90,000 individual neurons) of a larval zebrafish performing a
+virtual sensorimotor stabilization task.
 
 At AU, I taught an R-based Introduction to Statistical Computation and
 Modeling class, and as a result, I took on new research interests.
@@ -142,15 +147,16 @@ processing, data wrangling, and machine learning relevant to deriving
 insights from text.
 
 In January 2019, when I first heard about a fully-funded fellowship
-for a data science boot camp at The Flatiron School in DC, I realized
-that the time had come to try to make my move to a more traditional
-data science career.  After the fellowship, I want a data science job
-that will allow me to fully engage creatively in challenging problems,
-provide a fulfilling and supportive environment for success, and give
-me the opportunity to learn and progress in my career.  I am in the
-process of figuring out what types of workplaces will best meet these
-objectives, but one answer that currently seems attractive to me is a
-company that does data science for a wide range of clients.
+for a data science boot camp at The Flatiron School in Washington, DC,
+I realized that the time had come to try to make my move to a more
+traditional data science career.  After the fellowship, I want a data
+science job that will allow me to fully engage creatively in
+challenging problems, provide a fulfilling and supportive environment
+for success, and give me the opportunity to learn and progress in my
+career.  I am in the process of figuring out what types of workplaces
+will best meet these objectives, but one prospect that currently seems
+attractive to me is a company that does data science for a wide range
+of clients.
 
 I cannot know what treasures I will write, a year from now, concerning
 my expanding career in data science, nor what projects, on the job, or
