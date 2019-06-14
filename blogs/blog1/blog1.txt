@@ -1,13 +1,13 @@
 Even before I had ever uttered the term "data scientist," a career
 involving "science" and "data" struck me as a natural choice based on
-yearnings that go back to my childhood.  Indeed, for all of my
-sixteen-year post-graduate career, and long before the term reached
-the popular lexicon, I have done data science.  Until recently,
-however, my data skills have only found specialized applications in
-narrow academic disciplines.  I now choose to broaden my techniques,
-and the range of problems I can tackle, so I can work for employers
-beyond academia, solving challenging problems, and deriving
-penetrating insights from data.
+yearnings and proclivities that go back to my childhood.  Indeed, for
+all of my sixteen-year post-graduate career, and long before the term
+reached the popular lexicon, I have done data science.  Until
+recently, however, my data skills have only found specialized
+applications in narrow academic disciplines.  I now choose to broaden
+my techniques, and the range of problems I can tackle, so I can work
+for employers beyond academia, solving challenging problems, and
+deriving penetrating insights from data.
 
 My path to science began at an early age.  When I was about 10 years
 old, my loving father introduced me to the television series "Cosmos,"
